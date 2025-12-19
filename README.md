@@ -20,7 +20,7 @@ I have built **production-ready AI systems** and worked on **deep learning** dur
 ## 🧑‍💼 Experience
 
 ### 🔹 Summer Intern — DRDO (DRDE) 📍 Gwalior | 🗓️ June 2024 – July 2024
--Analyzed and forecasted India’s Air Quality Index using deep learning models (LSTM, GRU, RNN, Bi-LSTM), achieving up to 96% accuracy through optimized TensorFlow/Keras pipelines and data preprocessing with Pandas and NumPy.
+Analyzed and forecasted India’s Air Quality Index using deep learning models (LSTM, GRU, RNN, Bi-LSTM), achieving up to 96% accuracy through optimized TensorFlow/Keras pipelines and data preprocessing with Pandas and NumPy.
 
 🏅 *Received a Letter of Appreciation from DRDO*
 
