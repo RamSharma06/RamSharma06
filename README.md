@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 I’m an enthusiastic Computer Science Engineering graduate with hands-on experience in **full-stack development** and **AI/ML workflows**.  
-I have built **production-ready AI systems** and worked on **deep learning–based forecasting** during my internship at **DRDO**.
+I have built **production-ready AI systems** and worked on **deep learning** during my internship at **DRDO**.
 
 - 🧠 Strong interest in **Generative AI & RAG systems**
 - 🔍 Love solving **DSA problems** and building scalable applications
@@ -19,15 +19,8 @@ I have built **production-ready AI systems** and worked on **deep learning–bas
 
 ## 🧑‍💼 Experience
 
-### 🔹 Summer Intern — DRDO (DRDE)
-📍 Gwalior | 🗓️ June 2024 – July 2024
-
-- Analyzed and forecasted **Air Quality Index (AQI)** trends across India
-- Implemented deep learning models: **LSTM, GRU, RNN, Bi-LSTM**
-- Achieved **up to 96% prediction accuracy** with Bi-LSTM
-- Preprocessed large datasets using **Pandas & NumPy**
-- Built and optimized models using **TensorFlow & Keras**
-- Visualized results using **Matplotlib & Seaborn**
+### 🔹 Summer Intern — DRDO (DRDE) 📍 Gwalior | 🗓️ June 2024 – July 2024
+-Analyzed and forecasted India’s Air Quality Index using deep learning models (LSTM, GRU, RNN, Bi-LSTM), achieving up to 96% accuracy through optimized TensorFlow/Keras pipelines and data preprocessing with Pandas and NumPy.
 
 🏅 *Received a Letter of Appreciation from DRDO*
 
@@ -35,41 +28,17 @@ I have built **production-ready AI systems** and worked on **deep learning–bas
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-- C++
-- Python
-- JavaScript
+**Programming:** C++, Python, JavaScript  
 
-### 🧠 AI / ML
-- Machine Learning
-- Deep Learning (LSTM, GRU, Bi-LSTM)
-- Generative AI
-- Retrieval-Augmented Generation (RAG)
+**AI / ML:** Machine Learning, Deep Learning (LSTM, GRU, Bi-LSTM), Generative AI, RAG  
 
-### 🌐 Web Development
-- HTML5, CSS3
-- React.js
-- Node.js, Express.js
-- Tailwind CSS
-- FastAPI
+**Web:** HTML5, CSS3, React.js, Node.js, Express.js, Tailwind CSS, FastAPI  
 
-### 🗄️ Databases & Tools
-- MongoDB & MongoDB Atlas Vector Search
-- Git & GitHub
-- Postman
-- Jupyter Notebook
-- Google Colab
+**Databases & Tools:** MongoDB, MongoDB Atlas Vector Search, Git, GitHub, Postman, Jupyter, Google Colab  
 
-### 📚 CS Fundamentals
-- Data Structures & Algorithms
-- OOPS
-- DBMS & SQL
-- Operating Systems
-- Computer Networks
-- SDLC
+**CS Fundamentals:** DSA, OOPS, DBMS & SQL, Operating Systems, Computer Networks, SDLC
 
 ---
-
 ## 🏆 Achievements
 
 - 🏅 Letter of Appreciation from **DRDO**
@@ -80,9 +49,7 @@ I have built **production-ready AI systems** and worked on **deep learning–bas
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamSharma06&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamSharma06&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamSharma06&show_icons=true&theme=tokyonight)       ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamSharma06&layout=compact&theme=tokyonight)
 
 ---
 
