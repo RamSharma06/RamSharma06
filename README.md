@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 Software Engineer | GenAI & Full-Stack Systems
-*Building production-ready Generative AI agents, RAG architectures, and scalable full-stack applications[cite: 1].*
+*Building production-ready Generative AI agents, RAG architectures, and scalable full-stack applications.*
 
 ---
 
@@ -58,7 +58,7 @@
 
 ## 💼 Experience & Milestones
 
-### <a href="https://www.paloaltonetworks.com/" target="_blank"><img src="https://cdn.simpleicons.org/paloaltonetworks/FA582D" width="22" height="22" alt="Palo Alto Networks" align="center" /></a> [Palo Alto Networks](https://www.paloaltonetworks.com/)
+### [Palo Alto Networks](https://www.paloaltonetworks.com/)
 *Software Engineer Apprentice* `[Jan 2026 – Aug 2026]`[cite: 1]
 - Engineered an automated AI agent for daily status reporting, streamlining update collection, summarization, and reporting[cite: 1].
 - Leveraged Cursor and AI-assisted development tools to accelerate coding, debugging, and problem-solving[cite: 1].
@@ -67,7 +67,7 @@
 
 <br />
 
-### <a href="https://www.drdo.gov.in/drdo/labs-and-establishments/defence-research-development-establishment-drde" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Defence_Research_and_Development_Organisation_Logo.png" width="22" height="22" alt="DRDO Logo" align="center" /></a> [Defence Research & Development Establishment (DRDE, DRDO)](https://www.drdo.gov.in/drdo/labs-and-establishments/defence-research-development-establishment-drde)
+### [Defence Research & Development Establishment (DRDE, DRDO)](https://www.drdo.gov.in/drdo/labs-and-establishments/defence-research-development-establishment-drde)
 *Summer Intern* `[Jun 2024 – Jul 2024]`[cite: 1]
 - Analyzed and forecasted Air Quality Index (AQI) trends using deep-learning models (LSTM, GRU, Bi-LSTM)[cite: 1].
 - Cleaned and prepared large air-quality datasets with Pandas and NumPy, achieving up to **96% prediction accuracy** in TensorFlow/Keras[cite: 1].
@@ -86,31 +86,9 @@
 
 ---
 
-## 🧩 Competitive Programming & Problem Solving
+## 🏆 Education & Achievements
 
-<div align="center">
-
-<p align="center">
-  <a href="https://leetcode.com/u/Ram_Sharma/">
-    <img src="https://leetcard.jacoblin.cool/Ram_Sharma?theme=dark&font=Ubuntu" alt="Ram's LeetCode Stats" />
-  </a>
-</p>
-
-</div>
-
-- **650+ Problems Solved** across LeetCode, GeeksforGeeks, and CodeChef[cite: 1].
-- **B.Tech in Computer Science Engineering** – Madhav Institute of Technology and Science (CGPA: 7.54)[cite: 1].
-- Participant in **ISTE SC MANIT Codathon**[cite: 1].
-
----
-
-<div align="center">
-
-### 📊 GitHub Activity Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamSharma06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamSharma06&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-</div>
+- **B.Tech in Computer Science Engineering** – Madhav Institute of Technology and Science (CGPA: 7.54)[cite: 1]
+- **Solved 650+ Problems** across LeetCode, GeeksforGeeks, and CodeChef[cite: 1]
+- **Letter of Appreciation** from Defence Research Development Establishment (DRDO)[cite: 1]
+- Participant in **ISTE SC MANIT Codathon**[cite: 1]
